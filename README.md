@@ -1,7 +1,5 @@
 <picture> 
-<a href="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGl5dnVqdDBqeXNoOXAxMHF3MTQ5MWFzZ2dlczNucjlidjBxYTZneCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" alt="Developer">
-<img src="/assets//images/developer.webp" align="right" width="350">
-</a>
+<img src="/assets//images/dev.gif" align="right" width="350" height="255">
 </picture>
 
 ```js
