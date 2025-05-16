@@ -25,6 +25,6 @@ Hi, my name is Aditya Sebastian, I'm a Full Stack Developer from India.
 <!--icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwindcss,nodejs,express,mysql,git,figma,vercel,vite,supabase&perline=6" />
+<img src="https://skillicons.dev/icons?i=python,js,react,nextjs,tailwindcss,nodejs,express,mysql,git,figma,vercel,vite,supabase&perline=6" />
 </a>
 </p>
