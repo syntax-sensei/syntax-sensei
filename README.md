@@ -35,7 +35,7 @@ Hi, my name is Aditya Sebastian, I'm a Backend AI Engineer from India.
 </div>
 <!--icons-->
 <p align="center">
-<a href="https://skillicons.dev">
+
 <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" />
 <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
@@ -52,6 +52,4 @@ Hi, my name is Aditya Sebastian, I'm a Backend AI Engineer from India.
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
-<!-- <img src="https://skillicons.dev/icons?i=py,mysql,git,sklearn,supabase,docker,postgres,mongodb&perline=6" /> -->
-</a>
 </p>
